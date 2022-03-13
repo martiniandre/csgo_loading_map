@@ -1,0 +1,7 @@
+.map {
+  background: url('../../assets/images/csgo.png');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  border : 5px solid gray;
+}
